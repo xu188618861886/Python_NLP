@@ -1,3 +1,4 @@
+#分词并词性标注，利用中科院pynlpir
 # pynlpir是一个针对中科院分词器NLPIR/ICTCLAS而开发的一个python包
 
 # coding:utf-8
